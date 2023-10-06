@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nimasmhd
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning in Web developing softwares 
-- 📫 Reach me in nimasrafeek2000@gmail.com
+- 👀 I’m interested in coding,front-end evelopment,UI-designing,web developing,football,cricket
+- 🌱 I’m currently learning in ,Html,css,c#,React,MongoDb,Angular,Next-Js
+- 📫 Reach me in nimasrafeek2000@gmail.com / +94769278015 / www.linkedin.com/in/nimas-rafeek-0b08b620b
 
 <!---
 Nimasmhd/Nimasmhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
